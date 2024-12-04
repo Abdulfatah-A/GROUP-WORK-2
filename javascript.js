@@ -1,4 +1,4 @@
-javascript
+
 const scoreContainer = document.getElementById('score-container');
 
 // Function to show the final score
